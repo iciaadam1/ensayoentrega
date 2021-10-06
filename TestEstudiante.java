@@ -1,7 +1,8 @@
 
 /**
  *  Para probar Git Github desde BlueJ
- *  
+ *  pruebaaaa
+ * 
  */
 public class TestEstudiante
 {
@@ -15,8 +16,8 @@ public class TestEstudiante
         e1.printEstudiante();
         Estudiante e2 = new Estudiante("Ana", 8);
         e2.printEstudiante();
-		Estudiante e3 = new Estudiante("Elisa", 26);
-		e3.printEstudiante();
+        Estudiante e3 = new Estudiante("Elisa", 26);
+        e3.printEstudiante();
 
     }
 }
