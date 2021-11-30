@@ -2,7 +2,7 @@
 /**
  *  Para probar Git Github desde BlueJ
  *  pruebaaaa
- * 
+ * Probando git desde linea de comandos
  */
 public class TestEstudiante
 {
